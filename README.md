@@ -1,4 +1,6 @@
 # YATA discord bot - a discord bot made for Torn
+## The NEW bot can be found here: https://bot.yata.yt
+
 
 ### Modules
 - Verify
